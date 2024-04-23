@@ -165,3 +165,6 @@ doc/generate_docs/cache/*
 
 # ignore all VSCode settings
 .vscode/*
+
+# snyk stuff
+snyk*
